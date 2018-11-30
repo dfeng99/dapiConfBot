@@ -18,7 +18,7 @@
 暫停|靜音|切換投影片
 布|取消靜音|剪刀
 
-| 助理機器人得到指令 | B| C| D|
+| 助理機器人得到指令 | 左| 中| 右|
 | :-------- | :--------|:--------|:--------|
 | 1 | This is a sample. | This is a sample. | This is a sample. |
 |2 | This is a sample. | This is a sample. | This is a sample. |
