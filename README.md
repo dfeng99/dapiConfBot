@@ -11,7 +11,7 @@
 >
 -------------------------------------------------
 ~~~
-*|使用者|助理機器人得到得指令| 
+|使用者|助理機器人得到得指令| 
 |--|--| 
 |石頭|靜音| 
 |布|取消靜音| 
@@ -20,7 +20,7 @@
 
 
 
-![f]( https://www.theguardian.com/science/gallery/2010/dec/12/what-hand-gestures-mean#img-1 "hand" )
+![f]( https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/12/10/1292006079353/Thumb-up-001.jpg "hand" )
 
 
 ## 分析方法:
