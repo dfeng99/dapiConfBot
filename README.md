@@ -7,20 +7,20 @@
 ## Who(分析結果的使用目標族群)?
 ## Where(分析的原始資料來源)?
 ## What(預計的分析結果)?
+>使用者的手勢
+![f]( https://www.fluentu.com/blog/chinese/wp-content/uploads/2017/11/chinese-gestures-e1512759046169.jpg    "hand" )
 
 
-
-
-|使用者|助理機器人得到得指令| 
+>助理機器人得到得指令
 |--|--| 
-|![f]( https://cdn3.iconfinder.com/data/icons/how-many-fingers-you-see/60/gesture-ok-512.png  "hand" )|靜音| 
+||靜音| 
 |布|取消靜音| 
 |剪刀|切換投影片|  
 
 
 
 
-![f]( https://www.fluentu.com/blog/chinese/wp-content/uploads/2017/11/chinese-gestures-e1512759046169.jpg    "hand" )
+
 
 
 ## 分析方法:
