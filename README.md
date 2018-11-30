@@ -7,6 +7,15 @@
 ## Who(分析結果的使用目標族群)?
 ## Where(分析的原始資料來源)?
 ## What(預計的分析結果)?
+以手勢讓助理機器人知道使用者請求，例如: 
+|使用者|助理機器人得到得指令| 
+|--|--| 
+|石頭|靜音| 
+|布|取消靜音| 
+|剪刀|切換投影片|  
+
+
+
 ![f]( https://www.theguardian.com/science/gallery/2010/dec/12/what-hand-gestures-mean#img-1 "hand" )
 
 
