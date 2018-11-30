@@ -18,10 +18,7 @@
 暫停|靜音|切換投影片
 布|取消靜音|剪刀
 
-<ol>
-*助理機器人得到指令*
- </ol>
-| A | B| C| D|
+| 助理機器人得到指令 | B| C| D|
 | :-------- | :--------|:--------|:--------|
 | 1 | This is a sample. | This is a sample. | This is a sample. |
 |2 | This is a sample. | This is a sample. | This is a sample. |
