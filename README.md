@@ -9,7 +9,7 @@
 ## What(預計的分析結果)?
 <ol>
 
-*使用者的手勢*
+*主講者的手勢*
 
 ![f]( https://www.fluentu.com/blog/chinese/wp-content/uploads/2017/11/chinese-gestures-e1512759046169.jpg    "hand" )
 
@@ -19,7 +19,7 @@
 
 | 助理機器人得到指令 | 左| 中| 右|
 | :-------- | :--------|:--------|:--------|
-| 1 | This is a sample. | This is a sample. | This is a sample. |
+| 1 | 發言權切換至使用者 | 發言權切換至主講者 | 告知主講者，使用者提出問題 |
 |2 |切換投影片 | 靜音 | 取消靜音 |
 
 
