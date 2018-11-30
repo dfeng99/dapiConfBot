@@ -17,10 +17,10 @@
 |布|取消靜音| 
 |剪刀|切換投影片|  
 
-https://cdn3.iconfinder.com/data/icons/how-many-fingers-you-see/60/gesture-ok-512.png
 
 
-![f]( https://cdn3.iconfinder.com/data/icons/how-many-fingers-you-see/60/gesture-ok-512.png  "hand" )
+
+![f]( upload.wikimedia.org/wikipedia/commons/thumb/1/1c/LG_WHISEN_%EC%86%90%EC%97%B0%EC%9E%AC_%EC%A7%80%EB%A9%B4_%EA%B4%91%EA%B3%A0_%EC%B4%AC%EC%98%81_%EC%82%AC%EC%A7%84_%2830%29_hand_only.jpg/220px-LG_WHISEN_%EC%86%90%EC%97%B0%EC%9E%AC_%EC%A7%80%EB%A9%B4_%EA%B4%91%EA%B3%A0_%EC%B4%AC%EC%98%81_%EC%82%AC%EC%A7%84_%2830%29_hand_only.jpg  "hand" )
 
 
 ## 分析方法:
