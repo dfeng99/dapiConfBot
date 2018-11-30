@@ -20,7 +20,7 @@
 
 
 
-![f]( https://cdn3.iconfinder.com/data/icons/how-many-fingers-you-see/60/gesture-ok-512.png width="256" height="auto" "hand" )
+![f]( https://cdn3.iconfinder.com/data/icons/how-many-fingers-you-see/60/gesture-ok-512.png  "hand" )
 
 
 ## 分析方法:
