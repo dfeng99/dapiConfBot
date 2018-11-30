@@ -13,7 +13,7 @@
 
 |使用者|助理機器人得到得指令| 
 |--|--| 
-|石頭|靜音| 
+|![f]( https://cdn3.iconfinder.com/data/icons/how-many-fingers-you-see/60/gesture-ok-512.png  "hand" )|靜音| 
 |布|取消靜音| 
 |剪刀|切換投影片|  
 
