@@ -7,12 +7,13 @@
 ## Who(分析結果的使用目標族群)?
 ## Where(分析的原始資料來源)?
 ## What(預計的分析結果)?
+<ol>
 
 *使用者的手勢*
 
 ![f]( https://www.fluentu.com/blog/chinese/wp-content/uploads/2017/11/chinese-gestures-e1512759046169.jpg    "hand" )
 
-
+</ol>
 ####
 ||
 --------------|-------|------|------
