@@ -14,16 +14,14 @@
 ![f]( https://www.fluentu.com/blog/chinese/wp-content/uploads/2017/11/chinese-gestures-e1512759046169.jpg    "hand" )
 
 </ol>
-####
-||
---------------|-------|------|------
+
 暫停|靜音|切換投影片
 布|取消靜音|剪刀
 
-| A | B| C|
-| :-------- | :--------|:--------|
-| 1 | This is a sample. | This is a sample. |
-|2 | This is a sample. | This is a sample. |
+| A | B| C| D|
+| :-------- | :--------|:--------|:--------|
+| 1 | This is a sample. | This is a sample. | This is a sample. |
+|2 | This is a sample. | This is a sample. | This is a sample. |
 
 
 
