@@ -7,7 +7,7 @@
 ## Who(分析結果的使用目標族群)?
 ## Where(分析的原始資料來源)?
 ## What(預計的分析結果)?
-![text]( https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/12/10/1292006079353/Thumb-up-001.jpg "hand" )
+![f]( https://www.theguardian.com/science/gallery/2010/dec/12/what-hand-gestures-mean#img-1 "hand" )
 
 
 ## 分析方法:
