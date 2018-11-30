@@ -20,10 +20,10 @@
 暫停|靜音|切換投影片
 布|取消靜音|剪刀
 
-| A | B|
-| :-------- | :--------|
-| 1 | This is a sample. |
-|2 | This is a sample. |
+| A | B| C|
+| :-------- | :--------|:--------|
+| 1 | This is a sample. | This is a sample. |
+|2 | This is a sample. | This is a sample. |
 
 
 
