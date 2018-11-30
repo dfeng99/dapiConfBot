@@ -20,7 +20,7 @@
 
 
 
-![f]( https://cdn3.iconfinder.com/data/icons/how-many-fingers-you-see/60/gesture-ok-512.png "hand" )
+![f]( https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/12/10/1292006079353/Thumb-up-001.jpg "hand" )
 
 
 ## 分析方法:
