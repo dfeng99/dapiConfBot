@@ -7,6 +7,9 @@
 ## Who(分析結果的使用目標族群)?
 ## Where(分析的原始資料來源)?
 ## What(預計的分析結果)?
+![](https://www.google.com.tw/search?newwindow=1&q=hand+gestures&tbm=isch&tbs=simg:CAQSlQEJ9AMKT-ECDhAaiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIojwfiEtUG8wX1BfQF-AXnEvYFpQHfLIInjySlNN4slCemNNc0pzTgMxowYqmg9fJaKdPaCBmTn4VgMGgcWpXB4j8c_11nZrF_1hW64h4EHRuVgtIGg2NLnKHmejIAQMCxCOrv4IGgoKCAgBEgQVnAAdDA&sa=X&ved=0ahUKEwifmvLl1PveAhXHybwKHexaBuQQwg4IKCgA&biw=1229&bih=539 "001")
+
+
 ## 分析方法:
 
 A conference bot implementation based on Gesture.ai or Microsoft/Google Vision API
